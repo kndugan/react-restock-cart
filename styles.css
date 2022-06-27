@@ -1,0 +1,13 @@
+.deletebutton {
+    background: rgb(173, 173, 173);
+    color: white;
+}
+
+.myimg {
+    padding: 5px;
+}
+
+.productbutton {
+    width: 100px;
+    margin: 5px !important;
+}
